@@ -16,12 +16,12 @@ st.set_page_config(
 # -----------------------------------
 @st.cache_resource
 def load_model():
-    return joblib.load("../model/best_churn_model.pkl")
+    return joblib.load("model/best_churn_model.pkl")
 
 
 @st.cache_resource
 def load_features():
-    return joblib.load("../model/feature_columns.pkl")
+    return joblib.load("model/feature_columns.pkl")
 
 
 model = load_model()
