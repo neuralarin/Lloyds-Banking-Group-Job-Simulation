@@ -2,7 +2,7 @@
 ### Customer Churn Prediction using Machine Learning
 
 This project was completed as part of the **Lloyds Banking Group Job Simulation**. The goal was to analyze customer data, identify factors linked to customer churn, and build a machine learning solution to help identify customers who may be at risk of leaving the bank.
-  
+    
 ---
 
 ## 🎯 Business Problem
