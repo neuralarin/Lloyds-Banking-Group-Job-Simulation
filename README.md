@@ -19,6 +19,12 @@ Customer churn can lead to **financial loss and reduced customer lifetime value*
 
 ---
 
+## 🏅 Certificate
+
+[Lloyds Banking Group — Job Simulation Certificate](https://www.theforage.com/completion-certificates/Zbnc2o4ok6kD2NEXx/EuvC8GPjkZ6xaiP9p_Zbnc2o4ok6kD2NEXx_69a721315d00df1eaeb24c07_1775585315438_completion_certificate.pdf)
+
+---
+
 ## 📊 Model Performance
 
 Several machine learning algorithms were evaluated, with the following results:
